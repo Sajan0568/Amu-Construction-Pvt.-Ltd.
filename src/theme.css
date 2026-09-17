@@ -3,7 +3,7 @@
 body{background:var(--paper);color:var(--muted)}
 .header{background:rgba(245,246,243,.96);border-color:rgba(18,48,71,.08)}.brand{color:var(--ink)}.brand-mark{background:var(--accent)}.nav-cta,.dark,.stats,.image-frame span{background:var(--ink)}
 .hero,.page-hero,.image-statement{color:#FFFFFF}.hero p,.page-hero p,.hero-meta{color:#FFFFFF}.button{background:var(--accent);color:#FFFFFF}.button.light{background:#FFFFFF;color:var(--ink)}
-h1 em,h2 em{color:#FFFFFF}.eyebrow,.nav a:hover,.text-link:hover,.stats b,.why-list svg,.machine-card span,.principles small{color:var(--accent)}.eyebrow span{background:var(--accent)}
+h1 em,h2 em{color:var(--accent)}.eyebrow,.nav a:hover,.text-link:hover,.stats b,.why-list svg,.machine-card span,.principles small{color:var(--accent)}.eyebrow span{background:var(--accent)}
 .stats div{border-color:rgba(255,255,255,.22)}.stats span{color:rgba(255,255,255,.7)}.stats strong,.stats{color:#FFFFFF}.dark .eyebrow{color:var(--accent)}.dark .section-head>p{color:rgba(255,255,255,.7)}
 .service-overlay small,.project-card small,.footer-main h4{color:var(--accent)}.stats b,.principles small{color:var(--gold)}.service-overlay p{color:#FFFFFF}.project-card{background:var(--ink)}.project-card span{color:rgba(255,255,255,.8)}.why-strip{background:#F5F6F3}
 .why-list p,.section-copy p,.intro p,.section-head>p,.cta p,.contact>div>p,.detail-list p,.principles p,.about-block p{color:var(--muted)}footer{background:var(--black)}.footer-main>a,.footer-main>div>a,.footer-main p{color:rgba(255,255,255,.68)}.foot-copy{color:rgba(255,255,255,.58)}.footer-bottom{border-color:rgba(255,255,255,.15);color:rgba(255,255,255,.45)}
